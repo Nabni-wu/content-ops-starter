@@ -53,7 +53,7 @@ sections:
     title:
       type: TitleBlock
       text: About NABNI
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: left
