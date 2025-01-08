@@ -11,7 +11,7 @@
         {
             "label": "Customers ",
             "altText": "Blog",
-            "url": "/our customers ",
+            "url": "/our customers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
