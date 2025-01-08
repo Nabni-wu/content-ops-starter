@@ -85,7 +85,7 @@ sections:
         alignItems: center
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 500
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
