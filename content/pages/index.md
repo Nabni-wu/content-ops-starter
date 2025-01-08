@@ -61,7 +61,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: About NABNI
       color: text-dark
       styles:
         self:
