@@ -55,6 +55,13 @@ sections:
       type: Badge
       label: This is a badge
       color: text-primary
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
