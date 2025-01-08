@@ -51,6 +51,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
