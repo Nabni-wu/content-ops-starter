@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">Your Premier Destination for Architectural
-      & Engineering Tools – Empowering Your Company to Work Smarter and
+      <div style="text-align: left">Your Premier Destination for Architectural &
+      Engineering Tools – Empowering Your Company to Work Smarter and
       Faster!</div>
 
     actions:
