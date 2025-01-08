@@ -69,7 +69,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: arrowDown
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
