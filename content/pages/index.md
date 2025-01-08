@@ -65,7 +65,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Get started
+        label: More about us
         altText: ''
         url: /
         showIcon: false
