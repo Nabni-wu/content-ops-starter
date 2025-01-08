@@ -89,6 +89,7 @@
             "self": {
                 "borderRadius": "medium"
             }
-        }
+        },
+        "url": "/images/img-placeholder.svg"
     }
 }
