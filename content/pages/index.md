@@ -7,7 +7,7 @@ sections:
       text: Welcome to NABNI
       color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Your Premier Destination for Architectural & Engineering Tools –
       Empowering Your Company to Work Smarter and Faster!
