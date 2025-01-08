@@ -58,11 +58,15 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      <div style="text-align: center">At **Nabni**, we tackle everyday
+      challenges in the architecture and engineering market with cutting-edge
+      technologies. Our suite of innovative tools empowers firms to streamline
+      project workflows and accelerate procedures, helping you achieve
+      efficiency and excellence
+
+      </div>
+
     actions:
       - type: Button
         label: More about us
