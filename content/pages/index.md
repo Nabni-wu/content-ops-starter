@@ -62,6 +62,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/img-placeholder.svg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
