@@ -12,7 +12,7 @@ sections:
       Your Premier Destination for Architectural & Engineering Tools –
       Empowering Your Company to Work Smarter and Faster!
     actions:
-      - label: Get started
+      - label: Explore our Tools
         altText: ''
         url: /
         showIcon: false
