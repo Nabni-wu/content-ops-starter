@@ -57,7 +57,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: 'Everyday Problems, Exceptional Solutions—Powered by Advanced Technology'
     text: >+
       <div style="text-align: center">At **Nabni**, we tackle everyday
       challenges in the architecture and engineering market with cutting-edge
