@@ -23,15 +23,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: 'Discover Us '
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       type: ImageBlock
       altText: Image alt text placeholder
