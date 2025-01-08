@@ -84,7 +84,7 @@ sections:
         justifyContent: center
         alignItems: center
       subtitle:
-        textAlign: left
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
