@@ -8,9 +8,11 @@ sections:
       color: text-primary
       type: TitleBlock
     subtitle: ''
-    text: >
-      Your Premier Destination for Architectural & Engineering Tools –
-      Empowering Your Company to Work Smarter and Faster!
+    text: >+
+      <div style="text-align: center">Your Premier Destination for Architectural
+      & Engineering Tools – Empowering Your Company to Work Smarter and
+      Faster!</div>
+
     actions:
       - label: Explore our Tools
         altText: ''
