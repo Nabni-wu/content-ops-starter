@@ -57,7 +57,7 @@ sections:
       color: text-primary
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: BACKGROUND IMAGE
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
