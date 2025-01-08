@@ -67,7 +67,7 @@ sections:
       - type: Button
         label: More about us
         altText: ''
-        url: /
+        url: /blog
         showIcon: true
         icon: arrowRight
         iconPosition: right
