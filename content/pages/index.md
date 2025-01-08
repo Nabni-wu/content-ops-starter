@@ -56,7 +56,7 @@ sections:
       color: text-neutral
       styles:
         self:
-          textAlign: left
+          textAlign: center
     subtitle: 'Everyday Problems, Exceptional Solutions—Powered by Advanced Technology'
     text: >+
       <div style="text-align: center">At **Nabni**, we tackle everyday
