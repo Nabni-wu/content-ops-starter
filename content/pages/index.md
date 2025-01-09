@@ -31,7 +31,7 @@ sections:
         self:
           borderRadius: medium
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
